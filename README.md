@@ -1,4 +1,4 @@
-# ROS_projects
+# ROS cartesian control
 This is the repository for robotics course projects.
 
 For more infomantion please go to https://xiangzhuo-ding.github.io/ROS_Projects.html
